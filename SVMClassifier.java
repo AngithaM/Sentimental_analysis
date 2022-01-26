@@ -1,9 +1,6 @@
 package com.company;
 /*
  * Name: Angitha Mathew
- * Student ID:21239691
- * LSDA ASSIGNMENT 3
- * Question 2 & 3.
  * sentiment analysis using classification and evaluating the prediction
  */
 
